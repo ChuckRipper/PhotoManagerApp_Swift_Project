@@ -38,3 +38,33 @@ Aplikacja do zarządzania i udostępniania zdjęć umożliwia użytkownikom prze
 - **Visual Studio Code**: Może być używany do edytowania kodu Swift na Windowsie. Konieczne będzie zainstalowanie rozszerzeń dla Swift.
 - **Visual Studio 2022**: Alternatywa, ale wymaga konfiguracji narzędzi do kompilacji Swift.
 
+## Baza danych
+
+- Postgres
+
+# Struktura projektu
+
+## Frontend (klient)
+- Widoki (SwiftUI lub UIKit)
+- Kontrolery/Widoki-MVVM
+- Routing między ekranami
+
+## Backend (serwer)
+- API (np. przy użyciu Vapor framework dla Swift)
+- Logika biznesowa
+- Obsługa bazy danych (ORM, np. Fluent)
+
+## Testy
+- Testy jednostkowe (XCTest)
+- Testy interfejsu użytkownika (XCTestUI)
+
+
+
+
+
+
+
+
+
+
+
