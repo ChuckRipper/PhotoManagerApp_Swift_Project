@@ -1,6 +1,10 @@
 # PhotoManagerApp_Swift_Project
 Swift App
 
+## Autorzy:
+
+Cezary Kalinowski
+
 # Specyfikacja projektu
 
 ## Krótki opis projektu
